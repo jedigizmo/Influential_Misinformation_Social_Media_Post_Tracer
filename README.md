@@ -22,6 +22,7 @@ We use the **Fake and True News Dataset** (Fake.csv and True.csv), each containi
 - `date` (format: `December 31, 2017`)
 
 For computational efficiency, **only 1,000 samples** from each dataset are used.
+https://www.kaggle.com/datasets/islamic/fake-news-classification
 
 ---
 
